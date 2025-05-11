@@ -96,15 +96,21 @@ body {
 
  .return{
   width: 100%;
-  height: 150px;
+  height: 100px;
   display: flex;
   justify-content: center;
+ }
+
+ .return a{
+  text-decoration: none;
+  color: white;
  }
 
  .btn{
   background-color: #181818;
   font-size: 10px;
   font-family: 'Courier New', Courier, monospace;
+  border-radius: 10px;
  }
 
  footer {
